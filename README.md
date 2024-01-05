@@ -1,5 +1,5 @@
-# Parchment
-A clean, single column blog template built for jekyll
+# LI Yixin
+This is my Homepage!
 
 ## Building Locally
 * Clone the repository
